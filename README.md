@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nc5432
 - 👀 I’m interested in software development, game development, and artificial intelligence.
-- 🌱 I’m currently making games in Unity.
+- 🌱 I’m currently making games in Unity - nevermind, exploring other engine options.
 - 📫 How to reach me ...
 
 <!---
