@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nc5432
 - 👀 I’m interested in software development, game development, and artificial intelligence.
-- 🌱 I’m currently making games in Unity and Godot.
+- 🌱 I’m currently making games in Unity and Godot for both Husky Game Development and personal projects.
 - 📫 How to reach me ...
 
 <!---
