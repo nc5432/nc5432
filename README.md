@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nc5432
-- 👀 I’m interested in software development, game development, and artificial intelligence.
-- 🌱 I’m currently making games in Unity and Godot for both Husky Game Development and personal projects.
-- 📫 You can contact me by emailing nacasey@mtu.edu
+- Hi, I’m @nc5432
+- I’m interested in software development, game development, and artificial intelligence.
+- I’m currently making software for Nexteer Automotive, making games in Godot, and working on AR projects in Unity for the HoloLense 2.
+- I am moving to using self-hosted solutions to many services, so my personal projects will now be hosted on https://gitea.nolancasey.click. I will likely still use Github for class projects.
